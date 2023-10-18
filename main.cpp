@@ -8,9 +8,7 @@ int main()
 	//player作成
 	printf("player\n");
 
-	printf("マージしてください");
-
-	printf("\nマージするな");
+	printf("マージしないで");
 
 	return 0;
 
