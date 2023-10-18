@@ -6,7 +6,9 @@ int main()
 	printf("2023/10/11\n");
 
 	//playerì¬
-	printf("player");
+	printf("player\n");
+
+	printf("ƒ}[ƒW‚µ‚Ä‚­‚¾‚³‚¢");
 
 	return 0;
 
