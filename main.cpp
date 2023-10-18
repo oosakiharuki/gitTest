@@ -10,6 +10,8 @@ int main()
 
 	printf("マージしてください");
 
+	printf("\nマージするな");
+
 	return 0;
 
 }
