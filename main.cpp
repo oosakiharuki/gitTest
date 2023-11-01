@@ -5,7 +5,7 @@ int main()
 	printf("LC1B_oosaki_haruki\n");
 	printf("2023/10/11\n");
 
-	printf("プルリクエストする\n");
+	printf("プルリクエストを開始する\n");
 
 	//player作成
 	printf("player\n");
