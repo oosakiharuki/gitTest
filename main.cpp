@@ -7,10 +7,10 @@ int main()
 
 	printf("プルリクエストを開始する\n");
 
-	//player作成
+	//player菴懈・
 	printf("player\n");
 
-	printf("マージしてください");
+	printf("繝槭・繧ｸ縺励※縺上□縺輔＞");
 
 	return 0;
 
