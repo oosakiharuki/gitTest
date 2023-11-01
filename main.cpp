@@ -5,12 +5,12 @@ int main()
 	printf("LC1B_oosaki_haruki\n");
 	printf("2023/10/11\n");
 
-	printf("ƒvƒ‹ƒŠƒNƒGƒXƒg‚ðŠJŽn‚·‚é\n");
+	printf("ãƒ—ãƒ«ãƒªã‚¯ã‚¨ã‚¹ãƒˆã‚’é–‹å§‹ã—ã¾ã›ã‚“\n");
 
-	//playerì¬
+	//playerä½œæˆ
 	printf("player\n");
 
-	printf("ƒ}[ƒW‚µ‚Ä‚­‚¾‚³‚¢");
+	printf("ãƒžãƒ¼ã‚¸ã—ã¦ãã ã•ã„");
 
 	return 0;
 
